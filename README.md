@@ -7,6 +7,7 @@ The demo uses an Android App that allows the control of the RGB LED, user switch
 This should be suitable for a proof of concept to get an idea of the antenna range.
 
 The APK file is the Android App that can be installed on an Android device.
+
 The aia file is the source code for the MIT App Inventor project.
 
 ![Money box front 1 (Medium)](https://user-images.githubusercontent.com/57275578/179284592-c1c796ba-a0da-442c-9505-1f13246009fb.jpg)
