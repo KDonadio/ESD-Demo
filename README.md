@@ -5,10 +5,14 @@ There is a plastic badge that covers the antenna.
 The antenna cable is routed through the metal and movable metal parts of the box. 
 The demo uses an Android App that allows the control of the RGB LED, user switch status and temperature.
 This should be suitable for a proof of concept to get an idea of the antenna range.
-![Money box front 1](https://user-images.githubusercontent.com/57275578/179283816-8b32da42-f130-47fd-b0bd-877c037fd93e.jpg)
-![Money box front 2](https://user-images.githubusercontent.com/57275578/179283823-ad447550-e4bc-4bb2-8837-1a65479cf808.jpg)
-![Money box side](https://user-images.githubusercontent.com/57275578/179283832-e9cc6e72-528a-416c-a051-665c85bc9414.jpg)
-![Money box internal](https://user-images.githubusercontent.com/57275578/179283841-63c8ab6f-55c9-47f5-bcc0-e0e9b9e0723c.jpg)
-![Molex patch antenna 1](https://user-images.githubusercontent.com/57275578/179283849-36c8c507-4783-4c27-8a81-599168a504ca.jpg)
-![Molex patch antenna 2](https://user-images.githubusercontent.com/57275578/179283857-d02e414c-ca17-4a19-8b57-aa3e0a8930a0.jpg)
-![Molex patch antenna connector](https://user-images.githubusercontent.com/57275578/179283865-d2fc41bf-90cb-46fe-a16f-52b9f06f9f0c.jpg)
+
+The APK file is the Android App that can be installed on an Android device.
+The aia file is the source code for the MIT App Inventor project.
+
+![Money box front 1 (Medium)](https://user-images.githubusercontent.com/57275578/179284592-c1c796ba-a0da-442c-9505-1f13246009fb.jpg)
+![Money box front 2 (Medium)](https://user-images.githubusercontent.com/57275578/179284597-9057ced0-cc02-44da-95a2-8fc652712538.jpg)
+![Money box side (Medium)](https://user-images.githubusercontent.com/57275578/179284604-dea44a82-6202-4db7-920b-ea7d05ac2672.jpg)
+![Money box internal (Medium)](https://user-images.githubusercontent.com/57275578/179284612-b855463f-11da-44f7-a9db-a3485631038f.jpg)
+![Molex patch antenna 1 (Medium)](https://user-images.githubusercontent.com/57275578/179284624-26e0a1d3-366b-4818-bb72-07e93c5b10e8.jpg)
+![Molex patch antenna 2 (Medium)](https://user-images.githubusercontent.com/57275578/179284633-d78a0467-4e51-47ee-8691-c29ebff857b2.jpg)
+![Molex patch antenna connector (Medium)](https://user-images.githubusercontent.com/57275578/179284636-c5c4a8e0-2a7a-41b8-b876-9947111ee165.jpg)
