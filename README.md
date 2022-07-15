@@ -1,6 +1,6 @@
 # ESD-Demo
 Simple demonstration of Chimera with an external antenna mounted on a metal backplate. 
-The antenna is a Molex part number 214061-0150 and has an e=adhesive mount with a uFL connector.
+The antenna is a Molex part number 214061-0150 and has an adhesive mount with a uFL connector.
 There is a plastic badge that covers the antenna. 
 The antenna cable is routed through the metal and movable metal parts of the box. 
 The demo uses an Android App that allows the control of the RGB LED, user switch status and temperature.
